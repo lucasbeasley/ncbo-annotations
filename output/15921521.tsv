@@ -1,0 +1,190 @@
+ID: GO:0005260
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+191	242	SYN	CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE REGULATOR	ystic fibrosis transmembrane conductance regulator
+2225	2276	SYN	CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE REGULATOR	ystic fibrosis transmembrane conductance regulator
+ID: GO:0016021
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+207	220	SYN	TRANSMEMBRANE	ransmembrane
+2241	2254	SYN	TRANSMEMBRANE	ransmembrane
+ID: GO:0044214
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+207	220	SYN	TRANSMEMBRANE	ransmembrane
+2241	2254	SYN	TRANSMEMBRANE	ransmembrane
+ID: GO:0070701
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+441	446	SYN	MUCUS	ucus
+1314	1319	SYN	MUCUS	ucus
+3558	3563	SYN	MUCUS	ucus
+3645	3650	SYN	MUCUS	ucus
+10755	10760	SYN	MUCUS	ucus
+10870	10875	SYN	MUCUS	ucus
+11602	11607	SYN	MUCUS	ucus
+11660	11665	SYN	MUCUS	ucus
+11740	11745	SYN	MUCUS	ucus
+11878	11883	SYN	MUCUS	ucus
+11956	11961	SYN	MUCUS	ucus
+12013	12018	SYN	MUCUS	ucus
+12141	12146	SYN	MUCUS	ucus
+12161	12166	SYN	MUCUS	ucus
+12200	12205	SYN	MUCUS	ucus
+12305	12310	SYN	MUCUS	ucus
+12972	12977	SYN	MUCUS	ucus
+13248	13253	SYN	MUCUS	ucus
+13531	13536	SYN	MUCUS	ucus
+14085	14090	SYN	MUCUS	ucus
+14298	14303	SYN	MUCUS	ucus
+15947	15952	SYN	MUCUS	ucus
+22250	22255	SYN	MUCUS	ucus
+22308	22313	SYN	MUCUS	ucus
+22523	22528	SYN	MUCUS	ucus
+22698	22703	SYN	MUCUS	ucus
+23079	23084	SYN	MUCUS	ucus
+ID: GO:0006954
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+714	726	SYN	INFLAMMATION	nflammation
+1196	1208	SYN	INFLAMMATION	nflammation
+3616	3628	SYN	INFLAMMATION	nflammation
+3874	3886	SYN	INFLAMMATION	nflammation
+4700	4712	SYN	INFLAMMATION	nflammation
+7030	7042	SYN	INFLAMMATION	nflammation
+7820	7832	SYN	INFLAMMATION	nflammation
+19441	19453	SYN	INFLAMMATION	nflammation
+19551	19563	SYN	INFLAMMATION	nflammation
+19608	19620	SYN	INFLAMMATION	nflammation
+22995	23007	SYN	INFLAMMATION	nflammation
+ID: GO:0003675
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2360	2367	SYN	PROTEIN	rotein
+2857	2864	SYN	PROTEIN	rotein
+ID: GO:0006810
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2409	2418	PREF	TRANSPORT	ransport
+19270	19279	PREF	TRANSPORT	ransport
+ID: GO:0007586
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+3042	3051	PREF	DIGESTION	igestion
+3306	3315	PREF	DIGESTION	igestion
+ID: GO:0005694
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+4310	4320	PREF	CHROMOSOME	hromosome
+4535	4545	PREF	CHROMOSOME	hromosome
+17679	17689	PREF	CHROMOSOME	hromosome
+ID: GO:0005623
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+4740	4744	PREF	CELL	ell
+7355	7359	PREF	CELL	ell
+7689	7693	PREF	CELL	ell
+7856	7860	PREF	CELL	ell
+7909	7913	PREF	CELL	ell
+8408	8412	PREF	CELL	ell
+13733	13737	PREF	CELL	ell
+19782	19786	PREF	CELL	ell
+19892	19896	PREF	CELL	ell
+19964	19968	PREF	CELL	ell
+20442	20446	PREF	CELL	ell
+20627	20631	PREF	CELL	ell
+20664	20668	PREF	CELL	ell
+20801	20805	PREF	CELL	ell
+20827	20831	PREF	CELL	ell
+23159	23163	PREF	CELL	ell
+ID: GO:0010467
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+7223	7238	PREF	GENE EXPRESSION	ene expression
+9789	9804	PREF	GENE EXPRESSION	ene expression
+10512	10527	PREF	GENE EXPRESSION	ene expression
+13635	13650	PREF	GENE EXPRESSION	ene expression
+14351	14366	PREF	GENE EXPRESSION	ene expression
+ID: GO:0008283
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+7909	7927	PREF	CELL PROLIFERATION	ell proliferation
+ID: GO:0023052
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+8163	8172	PREF	SIGNALING	ignaling
+21136	21145	PREF	SIGNALING	ignaling
+ID: GO:0004713
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+8242	8245	SYN	JAK	AK
+ID: GO:0009986
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+8408	8420	PREF	CELL SURFACE	ell surface
+19964	19976	PREF	CELL SURFACE	ell surface
+ID: GO:0005562
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+9834	9837	SYN	RNA	NA
+25638	25641	SYN	RNA	NA
+ID: GO:0000407
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+11290	11293	SYN	PAS	AS
+11589	11592	SYN	PAS	AS
+12529	12532	SYN	PAS	AS
+12959	12962	SYN	PAS	AS
+26448	26451	SYN	PAS	AS
+ID: GO:0046903
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+13501	13510	PREF	SECRETION	ecretion
+22395	22404	PREF	SECRETION	ecretion
+22704	22713	PREF	SECRETION	ecretion
+23085	23094	PREF	SECRETION	ecretion
+ID: GO:0005574
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+17255	17258	SYN	DNA	NA
+ID: GO:0042044
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19264	19279	PREF	FLUID TRANSPORT	luid transport
+ID: GO:0042110
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19780	19797	PREF	T CELL ACTIVATION	 cell activation
+ID: GO:0001775
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19782	19797	PREF	CELL ACTIVATION	ell activation
+ID: GO:0008337
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19813	19821	SYN	SELECTIN	electin
+ID: GO:0030246
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19813	19821	SYN	SELECTIN	electin
+ID: GO:0003823
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+20168	20182	SYN	IMMUNOGLOBULIN	mmunoglobulin
+20732	20740	SYN	ANTIBODY	ntibody
+ID: GO:0005173
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+20622	20638	SYN	STEM CELL FACTOR	tem cell factor
+ID: GO:0060374
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+20659	20684	PREF	MAST CELL DIFFERENTIATION	ast cell differentiation
+ID: GO:0030154
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+20664	20684	PREF	CELL DIFFERENTIATION	ell differentiation
+ID: GO:0019815
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+20732	20740	SYN	ANTIBODY	ntibody
+ID: GO:0042571
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+20732	20740	SYN	ANTIBODY	ntibody
+ID: GO:0005141
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+21015	21020	SYN	IL-10	L-10
+ID: GO:0005622
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+21122	21135	PREF	INTRACELLULAR	ntracellular
+ID: GO:0035264
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+21444	21455	SYN	BODY GROWTH	ody growth
+ID: GO:0040007
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+21449	21455	PREF	GROWTH	rowth
+21515	21521	PREF	GROWTH	rowth
+ID: GO:0006955
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+21699	21714	PREF	IMMUNE RESPONSE	mmune response
+ID: GO:0070254
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+22698	22713	PREF	MUCUS SECRETION	ucus secretion
+23079	23094	PREF	MUCUS SECRETION	ucus secretion
+ID: GO:0030223
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+23168	23194	PREF	NEUTROPHIL DIFFERENTIATION	eutrophil differentiation
+ID: GO:0007610
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+23199	23207	PREF	BEHAVIOR	ehavior

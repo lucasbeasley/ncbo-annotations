@@ -1,0 +1,120 @@
+ID: GO:0003675
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+291	298	SYN	PROTEIN	rotein
+738	745	SYN	PROTEIN	rotein
+914	921	SYN	PROTEIN	rotein
+961	968	SYN	PROTEIN	rotein
+1104	1111	SYN	PROTEIN	rotein
+2600	2607	SYN	PROTEIN	rotein
+3004	3011	SYN	PROTEIN	rotein
+3042	3049	SYN	PROTEIN	rotein
+3293	3300	SYN	PROTEIN	rotein
+4399	4406	SYN	PROTEIN	rotein
+4446	4453	SYN	PROTEIN	rotein
+5058	5065	SYN	PROTEIN	rotein
+5241	5248	SYN	PROTEIN	rotein
+5515	5522	SYN	PROTEIN	rotein
+5648	5655	SYN	PROTEIN	rotein
+8103	8110	SYN	PROTEIN	rotein
+8199	8206	SYN	PROTEIN	rotein
+22069	22076	SYN	PROTEIN	rotein
+ID: GO:0016791
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+526	537	SYN	PHOSPHATASE	hosphatase
+2746	2757	SYN	PHOSPHATASE	hosphatase
+ID: GO:0005623
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+849	853	PREF	CELL	ell
+3724	3728	PREF	CELL	ell
+4314	4318	PREF	CELL	ell
+5693	5697	PREF	CELL	ell
+6323	6327	PREF	CELL	ell
+7899	7903	PREF	CELL	ell
+7958	7962	PREF	CELL	ell
+10827	10831	PREF	CELL	ell
+11215	11219	PREF	CELL	ell
+11249	11253	PREF	CELL	ell
+16377	16381	PREF	CELL	ell
+20419	20423	PREF	CELL	ell
+20693	20697	PREF	CELL	ell
+ID: GO:0006280
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2297	2308	SYN	MUTAGENESIS	utagenesis
+ID: GO:0032502
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2553	2564	SYN	DEVELOPMENT	evelopment
+ID: GO:0016032
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+3878	3893	SYN	VIRAL INFECTION	iral infection
+ID: GO:0006412
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+4772	4783	PREF	TRANSLATION	ranslation
+18960	18971	PREF	TRANSLATION	ranslation
+19022	19033	PREF	TRANSLATION	ranslation
+ID: GO:0005819
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+6419	6426	PREF	SPINDLE	pindle
+ID: GO:0005737
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+6683	6692	PREF	CYTOPLASM	ytoplasm
+ID: GO:0051179
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+7019	7031	PREF	LOCALIZATION	ocalization
+ID: GO:0009792
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+8355	8368	SYN	EMBRYOGENESIS	mbryogenesis
+ID: GO:0009793
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+8355	8368	SYN	EMBRYOGENESIS	mbryogenesis
+ID: GO:0009790
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+8355	8368	SYN	EMBRYOGENESIS	mbryogenesis
+ID: GO:0010467
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+8556	8571	PREF	GENE EXPRESSION	ene expression
+ID: GO:0047221
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+12095	12098	SYN	FPS	Ps
+ID: GO:0060417
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+14161	14165	PREF	YOLK	olk
+14223	14227	PREF	YOLK	olk
+ID: GO:0071173
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+14166	14169	SYN	SAC	ac
+14228	14231	SYN	SAC	ac
+ID: GO:0035003
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+14166	14169	SYN	SAC	ac
+14228	14231	SYN	SAC	ac
+ID: GO:0031430
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+14359	14366	SYN	MIDLINE	idline
+ID: GO:0004069
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+18709	18712	SYN	AAT	AT
+18755	18758	SYN	AAT	AT
+18826	18829	SYN	AAT	AT
+18875	18878	SYN	AAT	AT
+ID: GO:0005579
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+18783	18786	SYN	TCC	CC
+ID: GO:0006413
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+18960	18982	SYN	TRANSLATION INITIATION	ranslation initiation
+ID: GO:0001524
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19424	19430	SYN	GLOBIN	lobin
+ID: GO:0005344
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19424	19430	SYN	GLOBIN	lobin
+ID: GO:0042493
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19910	19925	SYN	DRUG RESISTANCE	rug resistance
+ID: GO:0009315
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19910	19925	SYN	DRUG RESISTANCE	rug resistance
+ID: GO:0005802
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+22249	22252	SYN	TGN	gN
+22297	22300	SYN	TGN	gN

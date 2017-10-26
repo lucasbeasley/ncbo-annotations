@@ -1,0 +1,200 @@
+ID: GO:0009405
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+245	257	PREF	PATHOGENESIS	athogenesis
+930	942	PREF	PATHOGENESIS	athogenesis
+3640	3652	PREF	PATHOGENESIS	athogenesis
+3872	3884	PREF	PATHOGENESIS	athogenesis
+20248	20260	PREF	PATHOGENESIS	athogenesis
+ID: GO:0019395
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+905	925	PREF	FATTY ACID OXIDATION	atty acid oxidation
+971	991	PREF	FATTY ACID OXIDATION	atty acid oxidation
+1130	1150	PREF	FATTY ACID OXIDATION	atty acid oxidation
+2196	2216	PREF	FATTY ACID OXIDATION	atty acid oxidation
+2886	2906	PREF	FATTY ACID OXIDATION	atty acid oxidation
+ID: GO:0008152
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+1103	1113	SYN	METABOLISM	etabolism
+19060	19070	SYN	METABOLISM	etabolism
+ID: GO:0005739
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2227	2239	SYN	MITOCHONDRIA	itochondria
+ID: GO:0003675
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2467	2474	SYN	PROTEIN	rotein
+9197	9204	SYN	PROTEIN	rotein
+9431	9438	SYN	PROTEIN	rotein
+9445	9452	SYN	PROTEIN	rotein
+9618	9625	SYN	PROTEIN	rotein
+9697	9704	SYN	PROTEIN	rotein
+24769	24776	SYN	PROTEIN	rotein
+24810	24817	SYN	PROTEIN	rotein
+25331	25338	SYN	PROTEIN	rotein
+25393	25400	SYN	PROTEIN	rotein
+ID: GO:0005634
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2636	2643	PREF	NUCLEUS	ucleus
+ID: GO:0005829
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2663	2670	PREF	CYTOSOL	ytosol
+ID: GO:0005759
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2698	2718	PREF	MITOCHONDRIAL MATRIX	itochondrial matrix
+2742	2762	PREF	MITOCHONDRIAL MATRIX	itochondrial matrix
+ID: GO:0070991
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+2846	2859	SYN	MCAD ACTIVITY	CAD activity
+17145	17158	SYN	MCAD ACTIVITY	CAD activity
+26044	26057	SYN	MCAD ACTIVITY	CAD activity
+ID: GO:0035825
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+4453	4477	PREF	HOMOLOGOUS RECOMBINATION	omologous recombination
+5393	5417	PREF	HOMOLOGOUS RECOMBINATION	omologous recombination
+5767	5791	PREF	HOMOLOGOUS RECOMBINATION	omologous recombination
+21951	21975	PREF	HOMOLOGOUS RECOMBINATION	omologous recombination
+22025	22049	PREF	HOMOLOGOUS RECOMBINATION	omologous recombination
+22370	22394	PREF	HOMOLOGOUS RECOMBINATION	omologous recombination
+ID: GO:0006412
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+4753	4764	PREF	TRANSLATION	ranslation
+4950	4961	PREF	TRANSLATION	ranslation
+ID: GO:0009058
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+4812	4821	SYN	FORMATION	ormation
+ID: GO:0005574
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+5574	5577	SYN	DNA	NA
+5620	5623	SYN	DNA	NA
+7282	7285	SYN	DNA	NA
+22059	22062	SYN	DNA	NA
+22243	22246	SYN	DNA	NA
+22352	22355	SYN	DNA	NA
+24375	24378	SYN	DNA	NA
+ID: GO:0005623
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+5849	5853	PREF	CELL	ell
+5899	5903	PREF	CELL	ell
+5913	5917	PREF	CELL	ell
+6266	6270	PREF	CELL	ell
+22418	22422	PREF	CELL	ell
+ID: GO:0005562
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+7440	7443	SYN	RNA	NA
+7508	7511	SYN	RNA	NA
+8402	8405	SYN	RNA	NA
+8486	8489	SYN	RNA	NA
+22900	22903	SYN	RNA	NA
+22919	22922	SYN	RNA	NA
+23622	23625	SYN	RNA	NA
+23780	23783	SYN	RNA	NA
+23905	23908	SYN	RNA	NA
+24729	24732	SYN	RNA	NA
+ID: GO:0019815
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+9352	9360	SYN	ANTIBODY	ntibody
+9374	9382	SYN	ANTIBODY	ntibody
+9590	9598	SYN	ANTIBODY	ntibody
+25748	25756	SYN	ANTIBODY	ntibody
+25822	25830	SYN	ANTIBODY	ntibody
+ID: GO:0042571
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+9352	9360	SYN	ANTIBODY	ntibody
+9374	9382	SYN	ANTIBODY	ntibody
+9590	9598	SYN	ANTIBODY	ntibody
+25748	25756	SYN	ANTIBODY	ntibody
+25822	25830	SYN	ANTIBODY	ntibody
+ID: GO:0003823
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+9352	9360	SYN	ANTIBODY	ntibody
+9374	9382	SYN	ANTIBODY	ntibody
+9590	9598	SYN	ANTIBODY	ntibody
+25748	25756	SYN	ANTIBODY	ntibody
+25822	25830	SYN	ANTIBODY	ntibody
+ID: GO:0003824
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+9785	9800	SYN	ENZYME ACTIVITY	nzyme activity
+26007	26022	SYN	ENZYME ACTIVITY	nzyme activity
+ID: GO:0006118
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+9851	9869	SYN	ELECTRON TRANSPORT	lectron transport
+29144	29162	SYN	ELECTRON TRANSPORT	lectron transport
+ID: GO:0006810
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+9860	9869	PREF	TRANSPORT	ransport
+29153	29162	PREF	TRANSPORT	ransport
+ID: GO:0008246
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+9884	9887	SYN	ETF	TF
+16918	16921	SYN	ETF	TF
+26190	26193	SYN	ETF	TF
+ID: GO:0033867
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+14418	14422	SYN	FAST	ast
+14990	14994	SYN	FAST	ast
+15085	15089	SYN	FAST	ast
+ID: GO:0001906
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+15309	15317	SYN	NECROSIS	ecrosis
+15450	15458	SYN	NECROSIS	ecrosis
+18768	18776	SYN	NECROSIS	ecrosis
+ID: GO:0070265
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+15309	15317	SYN	NECROSIS	ecrosis
+15450	15458	SYN	NECROSIS	ecrosis
+18768	18776	SYN	NECROSIS	ecrosis
+ID: GO:0008219
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+15309	15317	SYN	NECROSIS	ecrosis
+15450	15458	SYN	NECROSIS	ecrosis
+18768	18776	SYN	NECROSIS	ecrosis
+ID: GO:0019835
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+15309	15317	SYN	NECROSIS	ecrosis
+15450	15458	SYN	NECROSIS	ecrosis
+18768	18776	SYN	NECROSIS	ecrosis
+ID: GO:0008220
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+15309	15317	SYN	NECROSIS	ecrosis
+15450	15458	SYN	NECROSIS	ecrosis
+18768	18776	SYN	NECROSIS	ecrosis
+ID: GO:0016528
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+15570	15580	PREF	SARCOPLASM	arcoplasm
+ID: GO:0004142
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19086	19089	SYN	CPT	PT
+ID: GO:0004095
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+19086	19089	SYN	CPT	PT
+ID: GO:0007586
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+21652	21661	PREF	DIGESTION	igestion
+ID: GO:0001171
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+23066	23087	PREF	REVERSE TRANSCRIPTION	everse transcription
+ID: GO:0006351
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+23074	23087	SYN	TRANSCRIPTION	ranscription
+ID: GO:0005020
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+23794	23797	SYN	KIT	it
+ID: GO:1990116
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+25350	25353	SYN	RAD	ad
+ID: GO:0016020
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+25507	25515	PREF	MEMBRANE	embrane
+25667	25675	PREF	MEMBRANE	embrane
+ID: GO:0004617
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+26587	26591	SYN	SERA	era
+ID: GO:0034005
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+27062	27065	SYN	GAS	as
+ID: GO:0019013
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+28862	28866	SYN	CORE	ore
+ID: GO:0004829
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MatchType
+29601	29604	SYN	TRS	RS
+29700	29703	SYN	TRS	RS
